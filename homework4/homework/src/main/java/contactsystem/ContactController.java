@@ -10,7 +10,7 @@ import javax.validation.Valid;
 @Slf4j
 @Controller
 @RequestMapping("/")
-@SessionAttributes("tacoOrder")
+@SessionAttributes("contacts")
 
 public class ContactController {
 
