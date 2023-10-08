@@ -1,0 +1,7 @@
+contactsystem\Contact.class
+contactsystem\ContactRepositoryImpl.class
+contactsystem\ContactRepository.class
+contactsystem\Application.class
+contactsystem\ContactController.class
+contactsystem\data\Repository.class
+contactsystem\ContactList.class
